@@ -1,10 +1,10 @@
 <!-- GitHub README Template inspired by GitDocify -->
 
-<h1 align="center">Hi 👋, I'm Priyank Pahwa</h1>
+<h1 align="center">Hi, I'm Priyank Pahwa</h1>
 <h3 align="center">Full Stack & Blockchain Developer | B.Tech CSE '26 | Web3 | DeFi | Backend Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+%26+Blockchain+Developer;Building+Secure+%26+Scalable+Apps;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+%26+Blockchain+Developer;Building+Secure+%26+Scalable+Web+Apps;Crafting+Smart+Contracts+%26+dApps;Exploring+UI%2FUX+%26+DeFi+Innovations;Always+Learning+%26+Sharing" alt="Typing SVG" />
 </p>
 
 ---
