@@ -68,11 +68,3 @@
 </div>
 
 ---
-
-## 🧭 Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Priyank-0401&label=Profile%20Views&icon=5&color=6" alt="Profile View Counter" />
-</p>
-
----
