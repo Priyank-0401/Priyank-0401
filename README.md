@@ -72,12 +72,5 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank-0401&layout=compact&theme=gotham&hide_border=true" width="48%" alt="Top Languages" />
 
-  <!-- Snake Contribution Animation -->
-  <a href="https://github.com/Priyank-0401">
-    <img src="https://github.com/Priyank-0401/Priyank-0401/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
 
 </div>
-
-> 📌 **Note**: Some commit data may not fully include private repository contributions due to GitHub API limitations. I’ve made **344+ commits in 2025**, including private repos.
-
