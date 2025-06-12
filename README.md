@@ -62,9 +62,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyank-0401&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyank-0401&theme=gotham&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank-0401&layout=compact&theme=gotham&hide_border=true" width="48%" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyank-0401&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyank-0401&theme=gotham&hide_border=true" width="48%" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank-0401&layout=compact&theme=gotham&hide_border=true" width="48%" alt="Top Languages" />
+
+  <!-- Snake Contribution Animation -->
+  <a href="https://github.com/Priyank-0401">
+    <img src="https://github.com/Priyank-0401/Priyank-0401/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
+
 </div>
 
----
+> 📌 **Note**: Some commit data may not fully include private repository contributions due to GitHub API limitations. I’ve made **344+ commits in 2025**, including private repos.
+
